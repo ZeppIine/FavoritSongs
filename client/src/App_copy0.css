@@ -1,0 +1,40 @@
+h1 {
+    text-align: center;
+    margin: 0px;
+    padding: 30px;
+    background-color: #39c5bb;
+}
+
+.playlist {
+    padding: 20px;
+    margin-bottom: 16px;
+    background-color: #FD8A8A;
+}
+
+.container {
+  position: relative;
+}
+
+a {
+  color: white;
+}
+
+.song-title {
+  position: absolute;
+  width: 568px;
+  bottom: 5px;
+  padding: 16px;
+  text-align: center;
+  background-color: rgba(0,0,0, 0.5);
+}
+
+ul {
+  padding: 0px;
+}
+
+li {
+  margin: 0.25em;
+  padding: 1em;
+  background-color: beige;
+  list-style: none;
+}
